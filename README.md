@@ -1,10 +1,10 @@
-# 윤대영을 소개 합니다.
-  1. 안녕하세요 저는 우송대학교에서 공부하고 있습니다.
-  2. 지금은 IT융합학부의 수업을 진행 중입니다!
-    - IT융합학부는 2개의 학과가 있습니다.
-      - 컴퓨터정보보안학과
-      - 소프트웨어보안학과
-## Hi there 👋
+# 학력
+  우송대학교 졸업예정
 
-1. 파이썬으로 전화번호부(GUI) 만들기
-   https://github.com/YUN-DAE-YOUNG/test01
+# 자격증
+  리눅스마스터 2급
+  PCCE Lv.3
+  TOPCIT Lv.3
+
+1. AI를 이용한 악성코드분석 프로그램
+   [https://github.com/YUN-DAE-YOUNG/test01](https://github.com/wsu-detected-malware-project/final_result.git)
