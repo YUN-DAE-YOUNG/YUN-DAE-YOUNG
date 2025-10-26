@@ -8,4 +8,4 @@
 
 # 프로젝트
   1. AI를 이용한 악성코드분석 프로그램
-       [https://github.com/YUN-DAE-YOUNG/test01](https://github.com/wsu-detected-malware-project/final_result.git)
+       https://github.com/wsu-detected-malware-project/final_result.git
