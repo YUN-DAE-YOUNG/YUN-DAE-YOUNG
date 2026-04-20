@@ -10,7 +10,7 @@
   - PCCE LV.3
 
 # 프로젝트
-  1. ## **악성코드분석 프로그램**
+  1. ## *악성코드분석 프로그램*
        - PE 파일 구조를 분석하여 악성코드 여부를 판단하는 머신러닝 기반 프로그램
        - https://github.com/wsu-detected-malware-project/final_result.git
        - 사용 언어: 클라이언트 - C#, 서버 - Python
@@ -19,7 +19,7 @@
          <img width="1907" height="1069" alt="image" src="https://github.com/user-attachments/assets/1f5d17c3-341a-42d2-abdd-a78a6132ad59" />
        - 노션을 이용한 역할 분담 https://www.notion.so/WSU-AI-based-detected-malware-1bf7b7b1f2d9811b80a9c8164b5bb1b9
        - 역할: PE 파일 데이터 전처리 파이프라인 구축, FastAPI 기반 업데이트 서버 설계 및 구, 클라이언트 설정창 제작, 머신러닝 알고리즘 학
-   2. 패킷관제 프로그램
+   2. ## *패킷관제 프로그램*
        - 네트워크 패킷을 실시간으로 수집·파싱하고 필터링하여 핵심 정보를 사용자에게 제공하는 모니터링 프로그램
        - https://github.com/YUN-DAE-YOUNG/Packet-monitoring-program.git
        - 사용언어: Java
