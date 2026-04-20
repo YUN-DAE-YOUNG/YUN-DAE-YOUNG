@@ -10,7 +10,7 @@
   - PCCE LV.3
 
 # 프로젝트
-  1. ## 악성코드분석 프로그램
+  1. ## **악성코드분석 프로그램**
        - PE 파일 구조를 분석하여 악성코드 여부를 판단하는 머신러닝 기반 프로그램
        - https://github.com/wsu-detected-malware-project/final_result.git
        - 사용 언어: 클라이언트 - C#, 서버 - Python
